@@ -1,2 +1,8 @@
 HackTo2022-BackEnd
-command to run: python -m flask run
+
+To run:
+install python
+Install flask: pip install Flask
+install pandas: pip install pandas
+
+start the app: python -m flask run
